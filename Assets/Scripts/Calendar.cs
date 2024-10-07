@@ -18,6 +18,6 @@ public class Calendar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        dayText.SetText("Day " + Mathf.FloorToInt(timeManager.GetDay()).ToString("0"));
+        dayText.SetText("Hour " + Mathf.FloorToInt(timeManager.GetHour()).ToString("0"));
     }
 }

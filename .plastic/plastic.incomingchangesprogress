@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      71
+    ],
+    "SourceCsetId": 72,
+    "DestinationCsetId": 71,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset",
+        "ItemId": 3032,
+        "ParentItemId": 2828,
+        "BaseRevId": 4021,
+        "SourceRevId": 4109,
+        "DestinationRevId": 4021
+      }
+    ]
+  }
+]
